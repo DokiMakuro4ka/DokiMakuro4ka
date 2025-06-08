@@ -21,8 +21,7 @@ def ABOUT ME:
     return
 ```
 
-contacts:
-<h2 align="center">
+<h2 align="center">//contacts:\\
   <code><a href="https://www.linkedin.com/in/osmandurdag/" title="LinkedIn Profile"><img width="22" src="![image](https://github.com/user-attachments/assets/4d6ce678-d7ab-4077-b029-fe012c9847b2)
 "> LinkedIn</a></code>
   <code><a href="https://www.hackerrank.com/zumrudu_anka" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
