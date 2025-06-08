@@ -1,12 +1,23 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Daniil
-==============================================================================================================================
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Daniil <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<img align='right' src="https://tenor.com/ru/view/csharp-cat-programmer-programming-cat-programming-razer-programmer-gif-1883942185005547260" width="230">
+<p><em>working in <a href="https://www.amocrm.ru/">amoCRM (first line)
+</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
-I have 19 old and strive to become developer.
----------------------------------------------
+**👆 This command line tool can be found at [npx anmol](https://github.com/anmol098/npx_card)**
 
-Im studing in 2 curse on college on specialty IT and programmer. I have complete cursework on theme creating a website for a logistics company. Complete the curse on python developer.
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-* 🌍  I'm based in Moscow
-* 🖥️  See my portfolio at [hh](http://hh.ru/applicant/resumes?hhtmFrom=vacancy_search_filter&hhtmFromLabel=header)
-* ✉️  You can contact me at [TG, MAIL, WATSAPP](mailto:TG, MAIL, WATSAPP)
-* 🧠  I'm learning python
+```python
+def BIO ():
+    hard_skills = PYTHON, HTML, CSS, JS, FLASK
+    achive = complete course on python from https://inginirium.ru/courses/
+    return
+
+def ABOUT ME:
+    fron = Yoshkar-Ola
+    soft_skills = critical thinking, communicated
+```
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+
