@@ -22,8 +22,7 @@ def ABOUT ME:
 ```
 <h2 align='center'>//contacts:\\</h2>
 <h2 align="center"><code><a href="https://t.me/NomikLover"><img width="22" src="https://www.svgrepo.com/show/452115/telegram.svg"></a></code>
-  <code><a href="https://www.amocrm.ru/"><img width="22" src="![image](https://github.com/user-attachments/assets/c76b0fab-0f1e-41a2-a256-bc11347ebb22)
-"> </a></code>
+  <code><a href="https://www.amocrm.ru/"><img width="22" src="https://www.svgrepo.com/show/486511/work-case-filled.svg"> </a></code>
 </h2>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
