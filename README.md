@@ -1,5 +1,5 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Daniil <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<img align='right' src="https://tenor.com/ru/view/csharp-cat-programmer-programming-cat-programming-razer-programmer-gif-1883942185005547260" width="230">
+<img align='right' src="https://media.tenor.com/1cL5fzcjpaQAAAAd/laptop.gif" width="230">
 <p><em>working in <a href="https://www.amocrm.ru/">amoCRM (first line)
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
@@ -17,6 +17,7 @@ def BIO ():
 def ABOUT ME:
     fron = Yoshkar-Ola
     soft_skills = critical thinking, communicated
+    return
 ```
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
