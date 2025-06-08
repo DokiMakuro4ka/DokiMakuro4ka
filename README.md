@@ -1,6 +1,6 @@
 <div align="center">
   <h1>
-    <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width=""/>
+    <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="70"/>
     <b>Daniil</b>
     <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="70">
   </h1>
