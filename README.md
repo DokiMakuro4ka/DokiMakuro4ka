@@ -1,4 +1,4 @@
-<h2 align='center' style='font-size: 100px;'><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Daniil <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="55"></h2>
+<h2 align='center'><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Daniil <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="55"></h2>
 <img align='right' src="https://media.tenor.com/1cL5fzcjpaQAAAAd/laptop.gif" width="300">
 <p><em>working in <a href="https://www.amocrm.ru/">amoCRM (first line)
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
@@ -28,5 +28,5 @@ def ABOUT ME:
 <h1 align='center'>//contact:\\</h1>
 <h2 align="center"><a href="https://t.me/NomikLover"><img width="50" src="https://www.svgrepo.com/show/452115/telegram.svg"></a>
 </h2>
-<h2 lign='center'><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em lign='center'><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em></h2>
+<h2 lign='center'><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em></h2>
 
