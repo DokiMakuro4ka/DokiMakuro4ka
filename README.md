@@ -1,5 +1,6 @@
-<h2 align='center'><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Daniil <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="55"></h2>
-<p><img align='right' src="https://media.tenor.com/1cL5fzcjpaQAAAAd/laptop.gif" width="350">
+_<head align='center'><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Daniil <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="55"></head>
+
+<p><img align='right' src="https://media.tenor.com/1cL5fzcjpaQAAAAd/laptop.gif" height="100%">
 <em>working in <a href="https://www.amocrm.ru/">amoCRM (first line)
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
@@ -30,3 +31,4 @@ def ABOUT ME:
 </h2>
 <h2 lign='center'><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em></h2>
 
+_
