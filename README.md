@@ -21,10 +21,9 @@ def ABOUT ME:
     return
 ```
 <h2 align='center'>//contacts:\\</h2>
-<h2 align="center"><code><a href="https://www.linkedin.com/in/osmandurdag/" title="LinkedIn Profile"><img width="22" src="![image](https://github.com/user-attachments/assets/4d6ce678-d7ab-4077-b029-fe012c9847b2)">LinkedIn</a></code>
-  <code><a href="https://www.hackerrank.com/zumrudu_anka" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
-  <code><a href="https://stackoverflow.com/users/12578260/osman-durdag" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
-  <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
+<h2 align="center"><code><a href="https://t.me/NomikLover"><img width="22" src="https://tenor.com/ru/view/telegram-gif-18309569"></a></code>
+  <code><a href="https://www.hackerrank.com/zumrudu_anka"><img width="22" src="https://tenor.com/ru/view/mail-mailru-маилру-майлру-gif-25869582"></a></code>
+  <code><a href="https://www.amocrm.ru/"><img width="22" src="https://brandfetch.com/amosrm.ru?view=library&library=default&collection=logos&asset=id4nS344OA&utm_source=https%253A%252F%252Fbrandfetch.com%252Famosrm.ru&utm_medium=copyAction&utm_campaign=brandPageReferral"> </a></code>
 </h2>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
