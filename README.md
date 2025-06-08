@@ -1,4 +1,4 @@
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Daniil <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Daniil <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="55"></h2>
 <img align='right' src="https://media.tenor.com/1cL5fzcjpaQAAAAd/laptop.gif" width="230">
 <p><em>working in <a href="https://www.amocrm.ru/">amoCRM (first line)
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
