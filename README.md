@@ -22,8 +22,8 @@ def ABOUT ME:
 ```
 <h2 align='center'>//contacts:\\</h2>
 <h2 align="center"><code><a href="https://t.me/NomikLover"><img width="22" src="https://tenor.com/ru/view/telegram-gif-18309569"></a></code>
-  <code><a href="https://www.hackerrank.com/zumrudu_anka"><img width="22" src="https://tenor.com/ru/view/mail-mailru-маилру-майлру-gif-25869582"></a></code>
-  <code><a href="https://www.amocrm.ru/"><img width="22" src="https://brandfetch.com/amosrm.ru?view=library&library=default&collection=logos&asset=id4nS344OA&utm_source=https%253A%252F%252Fbrandfetch.com%252Famosrm.ru&utm_medium=copyAction&utm_campaign=brandPageReferral"> </a></code>
+  <code><a href="https://www.amocrm.ru/"><img width="22" src="![image](https://github.com/user-attachments/assets/c76b0fab-0f1e-41a2-a256-bc11347ebb22)
+"> </a></code>
 </h2>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
