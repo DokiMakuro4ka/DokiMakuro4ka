@@ -21,9 +21,9 @@ def ABOUT ME:
     return
 ```
 <h2 align='center'>//contacts:\\</h2>
-<h2 align="center"><a href="https://t.me/NomikLover"><img width="22" src="https://www.svgrepo.com/show/452115/telegram.svg"></a>
+<h1 align="center"><a href="https://t.me/NomikLover"><img width="22" src="https://www.svgrepo.com/show/452115/telegram.svg"></a>
   <a href="https://www.amocrm.ru/"><img width="22" src="https://www.svgrepo.com/show/486511/work-case-filled.svg"> </a>
-</h2>
+</h1>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
