@@ -28,5 +28,5 @@ def ABOUT ME:
 <h1 align='center'>//contact:\\</h1>
 <h2 align="center"><a href="https://t.me/NomikLover"><img width="50" src="https://www.svgrepo.com/show/452115/telegram.svg"></a>
 </h2>
-<h2 lign='center'><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em></h2>
+<h2 lign='center'><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em lign='center'><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em></h2>
 
