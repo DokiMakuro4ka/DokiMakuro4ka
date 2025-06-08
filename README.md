@@ -12,7 +12,7 @@
 ```python
 def BIO ():
     hard_skills = PYTHON, HTML, CSS, JS, FLASK
-    achive = complete course on python from https://inginirium.ru/courses/
+    achieve = complete course on python from https://inginirium.ru/courses/
     return
 
 def ABOUT ME:
