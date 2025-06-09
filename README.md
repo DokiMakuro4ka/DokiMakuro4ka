@@ -43,6 +43,9 @@ def ABOUT_ME():
   <a href="https://t.me/NomikLover">
     <img width="50" src="https://www.svgrepo.com/show/452115/telegram.svg">
   </a>
+  <a href="mailto:brumis01@mail.ru">
+  <img src="https://cdn0.iconfinder.com/data/icons/social-flat-rounded-rects/512/mailru-512.png" alt="Mail" width="50" />
+  </a>
 </h2>
 <h2 align='center'>
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
